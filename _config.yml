@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jitin Krishnan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Research Scientist at Meta AI"
   location         : "Seattle, Washington"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=DQJbUaUAAAAJ&hl=en"
-  email            :
+  email            : "jitinkrishnan@meta.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
