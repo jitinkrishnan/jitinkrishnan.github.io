@@ -4,7 +4,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*George Mason University & The Governor's School*
+*George Mason University & The Governor's School*\
+*Department of Computer Science*\
+*Volgenau School of Engineering*\
+*Fairfax, VA*\
+*2016-2018*
 
 **CS112 Introduction to Programming**\
 Language: Python\
