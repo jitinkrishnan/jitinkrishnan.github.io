@@ -7,9 +7,7 @@ author_profile: true
 **CS112 Introduction to Programming**\
 Language: Python\
 [Syllabus](https://cs.gmu.edu/media/syllabi/Fall2018/CS_112Dimitriadis_Krishnan_Snyder_Zhongall.html)\
-Fall 2018
-
-**CS112 Introduction to Programming**\
+Fall 2018\
 Language: Java\
 [Syllabus](https://mason.gmu.edu/~jkrishn2/cs112g01.html)\
 Fall 2016, 2017
