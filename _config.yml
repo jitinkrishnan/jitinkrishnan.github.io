@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jitin Krishnan's Homepage"
 title_separator          : "-"
-name                     : &name "Jitin Krishnan"
+name                     : &name "Jitin Krishnan, PhD"
 description              : &description "Research Scientist at Meta AI"
 url                      : https://jitinkrishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -19,5 +19,5 @@ Work experience
 
 Awards
 ======
-[John Mather Nobel Scholar](https://spacegrant.org/programs/john-mather/john-mather-2017/), NASA GSFC 2017\
-With Dr. John Mather at Greenbelt, Maryland.<br/><img src='/images/jmns.jpg' width="330" height="250">
+[John Mather Nobel Scholar](https://spacegrant.org/programs/john-mather/john-mather-2017/), NASA GSFC, 2017\
+With Dr. John Mather in Greenbelt, Maryland.<br/><img src='/images/jmns.jpg' width="330" height="250">
