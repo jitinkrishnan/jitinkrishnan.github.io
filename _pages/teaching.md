@@ -23,7 +23,7 @@ Language: Java\
 Fall 2016, 2017
 
  
-*George Mason University & The Governor's School*\
+*George Mason University & Governor's School*\
 *Department of Computer Science*\
 *Fairfax/Manassas, VA*\
 *2016-2018*
