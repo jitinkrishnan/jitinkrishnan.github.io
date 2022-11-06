@@ -6,6 +6,8 @@ redirect_from:
   - /resume
 ---
 
+Education
+======
 * Ph.D in Computer Science, George Mason University, 2021
 * B.S in Computer Science with Minor in Economics, University of Virginia, 2013
 
