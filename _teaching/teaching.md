@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /teaching-1/
 author_profile: true
 ---
 
