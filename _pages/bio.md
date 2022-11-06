@@ -3,6 +3,11 @@ layout: archive
 permalink: /bio/
 author_profile: true
 title: ""
+redirect_from: 
+  - /cv/
+  - /cv.html
+  - /resume/
+  - /resume.html
 ---
 
 Education
