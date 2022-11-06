@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Computer Science, George Mason University, 2021
