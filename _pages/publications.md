@@ -40,11 +40,11 @@ In Proceedings of the AAAI Spring Symposium on Combining Machine Learning and Kn
 Code: [Github Link](https://github.com/jitinkrishnan/NASA-SE)
 
 [Homicidal Event Forecasting and Interpretable Analysis Using Hierarchical Attention Model](https://link.springer.com/chapter/10.1007/978-3-030-61255-9_14)\
-Angeela Acharya, **Jitin Krishnan**, Desmond Arias, and Huzefa Rangwala\
+Angeela Acharya, **Jitin Krishnan**, Desmond Arias and Huzefa Rangwala\
 In Proceedings of International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS) 2020
 
 [SEVA: A Systems Engineer's Virtual Assistant](http://ceur-ws.org/Vol-2350/paper3.pdf)\
-**Jitin Krishnan**, Patrick Coronado, and Trevor Reed\
+**Jitin Krishnan**, Patrick Coronado and Trevor Reed\
 In Proceedings of the AAAI Spring Symposium on Combining Machine Learning and Knowledge Engineering in Practice (AAAI-MAKE) 2019\
 Code: [Github Link](https://github.com/jitinkrishnan/NASA-SE)
 
