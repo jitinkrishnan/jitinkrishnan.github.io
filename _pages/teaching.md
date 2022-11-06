@@ -4,12 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*George Mason University & The Governor's School*\
-*Department of Computer Science*\
-*Volgenau School of Engineering*\
-*Fairfax, VA*\
-*2016-2018*
-
 **CS112 Introduction to Programming**\
 Language: Python\
 [Syllabus](https://cs.gmu.edu/media/syllabi/Fall2018/CS_112Dimitriadis_Krishnan_Snyder_Zhongall.html)\
@@ -28,3 +22,10 @@ Language: Java\
 [Syllabus](https://cs.gmu.edu/media/syllabi/Spring2018/CS_310All_Instructors.html), [Slides](https://drive.google.com/drive/folders/1umpJzAnVydDcwJlG2zywNcD8ONL1dWep)\
 Fall 2017, Spring 2018
   
+*George Mason University*\
+*Department of Computer Science*\
+*Fairfax, VA*\
+*The Governor's School at Innovation Park*\
+*Prince William County Public Schools*\
+*Manassas, VA*\
+*2016-2018*
