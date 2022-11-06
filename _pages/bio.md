@@ -17,11 +17,11 @@ Education
 
 Work Experience
 ======
-* 2021 - Present: Research Scientist, **Meta** AI
-* Summer 2021: Applied Scientist Intern, **Amazon** Alexa NLU
+* 2021 - Present: Research Scientist, **Meta AI**
+* Summer 2021: Applied Scientist Intern, **Amazon Alexa NLU**
 * Summer 2018, 2019: Machine Learning Intern, **Facebook**
-* Summer 2015 - 2018: AI Intern, **NASA** GSFC
-* 2016 - 2018: Computer Science Faculty, **George Mason University**/Governor's School
+* Summer 2015 - 2018: AI Intern, **NASA GSFC**
+* 2016 - 2018: Computer Science Faculty, **George Mason University/Governor's School**
 
 Awards
 ======
