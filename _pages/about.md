@@ -13,4 +13,4 @@ I am a Research Scientist at Meta AI, building cutting-edge Deep Learning and Na
 
 Feel free to connect with me via LinkedIn.
 
-<img src='/images/fb_jitin.jpg' width="430" height="430">
+<img src='/images/fb_jitin.jpg' width="430" height="500">
