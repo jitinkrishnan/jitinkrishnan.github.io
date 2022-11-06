@@ -22,9 +22,8 @@ Language: Java\
 [Syllabus](https://mason.gmu.edu/~jkrishn2/cs112g01.html)\
 Fall 2016, 2017
 
-  
-@\
-*George Mason University & The Governor's School at Innovation Park*\
+ 
+*George Mason University & The Governor's School*\
 *Department of Computer Science*\
 *Fairfax/Manassas, VA*\
 *2016-2018*
