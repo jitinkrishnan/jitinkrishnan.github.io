@@ -2,8 +2,6 @@
 layout: archive
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Education
@@ -22,4 +20,4 @@ Work experience
 Awards
 ======
 [John Mather Nobel Scholar](https://spacegrant.org/programs/john-mather/john-mather-2017/), NASA GSFC 2017
-  
+With Dr. John Mather at Greenbelt, Maryland.<br/><img src='/images/jmns.png' width="330" height="250">
