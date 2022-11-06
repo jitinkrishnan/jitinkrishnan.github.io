@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+*Cross-Lingual Text Classification of Transliterated Hindi and Malayalam*
+Jitin Krishnan, Antonios Anastasopoulos, Hemant Purohit and Huzefa Rangwala
+In IEEE International Conference on Big Data 2022
+[PDF] (https://arxiv.org/abs/2108.13620)
