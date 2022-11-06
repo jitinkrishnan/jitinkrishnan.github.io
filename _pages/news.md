@@ -5,5 +5,5 @@ permalink: /news/
 author_profile: true
 ---
 
-Test
+Test 1
 ======
