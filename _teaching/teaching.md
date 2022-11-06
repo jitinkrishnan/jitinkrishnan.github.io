@@ -4,6 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+*George Mason University & The Governor's School*
+
 **CS112 Introduction to Programming**\
 Language: Python\
 [Syllabus](https://cs.gmu.edu/media/syllabi/Fall2018/CS_112Dimitriadis_Krishnan_Snyder_Zhongall.html)\
