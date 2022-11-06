@@ -13,17 +13,17 @@ Proceedings of EMNLP 2022
 In IEEE International Conference on Big Data 2022\
 Code: [Github link](https://github.com/jitinkrishnan/Transliteration-Hindi-Malayalam)
 
-[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18.pdf)\
+[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18/)\
 **Jitin Krishnan**, Antonios Anastasopoulos, Hemant Purohit and Huzefa Rangwala\
 In Proceedings of the 1st Workshop on Multilingual Representation Learning at EMNLP 2021\
 Code: [Github link](https://github.com/jitinkrishnan/Multilingual-ZeroShot-SlotFilling)
 
-[Diversity-Based Generalization for Unsupervised Text Classification under Domain Shift](https://arxiv.org/pdf/2002.10937.pdf)\
+[Diversity-Based Generalization for Unsupervised Text Classification under Domain Shift](https://arxiv.org/abs/2002.10937)\
 **Jitin Krishnan**, Hemant Purohit and Huzefa Rangwala\
 In Proceedings of the 19th European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2020\
 Code: [Github link](https://github.com/jitinkrishnan/Diversity-Based-Generalization), Slides: [SlidesLive](https://slideslive.com/38932419/diversitybased-generalization-for-unsupervised-text-classification-under-domain-shift)
 
-[Unsupervised and Interpretable Domain Adaptation to Rapidly Filter Social Web Data for Emergency Services](https://arxiv.org/pdf/2003.04991.pdf)\
+[Unsupervised and Interpretable Domain Adaptation to Rapidly Filter Social Web Data for Emergency Services](https://arxiv.org/abs/2003.04991)\
 **Jitin Krishnan**, Hemant Purohit and Huzefa Rangwala\
 In Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2020\
 Code: [Github Link](https://github.com/jitinkrishnan/Crisis-Tweet-Multi-Task-DA)
