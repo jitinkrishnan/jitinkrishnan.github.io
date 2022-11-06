@@ -22,7 +22,7 @@ Language: Java\
 [Syllabus](https://cs.gmu.edu/media/syllabi/Spring2018/CS_310All_Instructors.html), [Slides](https://drive.google.com/drive/folders/1umpJzAnVydDcwJlG2zywNcD8ONL1dWep)\
 Fall 2017, Spring 2018
   
--\
+@\
 *George Mason University*\
 *Department of Computer Science*\
 *Fairfax, VA*\
