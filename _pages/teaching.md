@@ -23,10 +23,7 @@ Language: Java\
 Fall 2017, Spring 2018
   
 @\
-*George Mason University*\
+*George Mason University & The Governor's School at Innovation Park*\
 *Department of Computer Science*\
-*Fairfax, VA*\
-*The Governor's School at Innovation Park*\
-*Prince William County Public Schools*\
-*Manassas, VA*\
+*Fairfax/Manassas, VA*\
 *2016-2018*
