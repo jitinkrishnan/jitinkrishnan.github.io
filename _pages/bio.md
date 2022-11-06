@@ -2,6 +2,7 @@
 layout: archive
 permalink: /bio/
 author_profile: true
+title: ""
 ---
 
 Education
