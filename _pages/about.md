@@ -10,7 +10,7 @@ redirect_from:
 
 **About Me**
 
-<img src='/images/meta_gif.gif' width="120" height="140">
+<img src='/images/meta_gif.gif' width="130" height="120">
 <img src='/images/BLANK_ICON.png' width="20" height="40">
 <img src='/images/nasa_logo.png' width="95" height="125">
 <img src='/images/BLANK_ICON.png' width="15" height="40">
