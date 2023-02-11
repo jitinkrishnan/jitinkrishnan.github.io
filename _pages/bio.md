@@ -25,6 +25,6 @@ redirect_from:
 
 **Awards**
 
-[John Mather Nobel Scholar](https://spacegrant.org/programs/john-mather/john-mather-2017/), NASA GSFC, 2017\
+[John Mather Nobel Scholar](https://spacegrant.org/programs/john-mather/john-mather-2017/). NASA GSFC, Greenbelt Maryland. (2017)\
 <img src='/images/jmns.jpg' width="330" height="250">\
-With Astrophysicist and Nobel Laureate Dr. John Mather (left) in Greenbelt, Maryland
+With Astrophysicist and Nobel Laureate Dr. John Mather (left)
