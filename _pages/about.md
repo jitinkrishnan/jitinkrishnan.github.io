@@ -10,10 +10,10 @@ redirect_from:
 
 **About Me**
 
-<img src='/images/meta_gif.gif' width="80" height="110">
+<img src='/images/meta_gif.gif' width="120" height="140">
 <img src='/images/BLANK_ICON.png' width="20" height="40">
 <img src='/images/nasa_logo.png' width="95" height="125">
-<img src='/images/BLANK_ICON.png' width="17" height="40">
+<img src='/images/BLANK_ICON.png' width="15" height="40">
 <img src='/images/alexa_icon2.png' width="135" height="165">
 <img src='/images/BLANK_ICON.png' width="35" height="40">
 <img src='/images/gmu_icon.png' width="90" height="120">
