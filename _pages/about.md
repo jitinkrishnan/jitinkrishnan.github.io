@@ -13,7 +13,7 @@ redirect_from:
 <img src='/images/meta_icon.png' width="80" height="110">
 <img src='/images/BLANK_ICON.png' width="20" height="40">
 <img src='/images/nasa_logo.png' width="90" height="120">
-<img src='/images/BLANK_ICON.png' width="20" height="40">
+<img src='/images/BLANK_ICON.png' width="19" height="40">
 <img src='/images/alexa_icon2.png' width="130" height="160">
 <img src='/images/BLANK_ICON.png' width="40" height="40">
 <img src='/images/gmu_icon.png' width="90" height="120">
