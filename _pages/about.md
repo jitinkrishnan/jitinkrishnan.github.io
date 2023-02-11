@@ -15,9 +15,9 @@ redirect_from:
 <img src='/images/nasa_logo.png' width="95" height="125">
 <img src='/images/BLANK_ICON.png' width="14" height="40">
 <img src='/images/alexa_icon2.png' width="135" height="165">
-<img src='/images/BLANK_ICON.png' width="31" height="40">
+<img src='/images/BLANK_ICON.png' width="33" height="40">
 <img src='/images/gmu_icon.png' width="90" height="135">
-<img src='/images/BLANK_ICON.png' width="23" height="40"> 
+<img src='/images/BLANK_ICON.png' width="25" height="40"> 
 <img src='/images/uva_logo.png' width="105" height="135">
 
 
