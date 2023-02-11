@@ -22,9 +22,9 @@ Language: Java\
 [Syllabus](https://mason.gmu.edu/~jkrishn2/cs112g01.html)\
 Fall 2016, 2017
 
-<img src='/images/gmu_icon.png' width="90" height="135">
-<img src='/images/BLANK_ICON.png' width="26" height="40"> 
-<img src='/images/govschool.jpeg' width="105" height="135">
+<img src='/images/gmu_icon.png' width="110" height="160">
+<img src='/images/BLANK_ICON.png' width="40" height="40"> 
+<img src='/images/govschool.jpeg' width="100" height="130">
 
  
 *[George Mason University](https://cs.gmu.edu) & [Governor's School](https://governors.pwcs.edu)*\
