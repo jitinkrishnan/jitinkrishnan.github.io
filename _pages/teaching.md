@@ -27,7 +27,7 @@ Fall 2016, 2017
 <img src='/images/govschool.jpeg' width="100" height="130">
 
  
-*[George Mason University](https://cs.gmu.edu) & [Governor's School](https://governors.pwcs.edu)*\
+*[George Mason University](https://cs.gmu.edu) & [The Governor's School](https://governors.pwcs.edu)*\
 *Department of Computer Science*\
 *Fairfax/Manassas, VA*\
 *2016-2018*
