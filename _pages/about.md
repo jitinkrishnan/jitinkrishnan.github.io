@@ -16,7 +16,7 @@ redirect_from:
 <img src='/images/BLANK_ICON.png' width="12" height="40">
 <img src='/images/alexa_icon2.png' width="135" height="165">
 <img src='/images/BLANK_ICON.png' width="33" height="40">
-<img src='/images/gmu_icon.png' width="90" height="120">
+<img src='/images/gmu_icon.png' width="90" height="130">
 <img src='/images/BLANK_ICON.png' width="23" height="40"> 
 <img src='/images/uva_logo.png' width="105" height="135"> 
 
