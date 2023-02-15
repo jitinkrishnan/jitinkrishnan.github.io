@@ -3,6 +3,8 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
+*(I don't teach anymore. Please feel free to grab the slides/reach out with any questions)*
+
 
 **CS310 Data Structures**\
 Language: Java\
@@ -11,7 +13,7 @@ Fall 2017, Spring 2018
 
 **CS211 Object Oriented Programming**\
 Language: Java\
-[Syllabus](https://mason.gmu.edu/~jkrishn2/cs211.html)\
+[Syllabus](https://mason.gmu.edu/~jkrishn2/cs211.html), [Slides](https://drive.google.com/drive/folders/1Ld6ZXtY2IdJUz79oGyIARFB4doexqHfo?usp=sharing)\
 Spring 2017, 2018
 
 **CS112 Introduction to Programming**\
@@ -20,7 +22,8 @@ Language: Python\
 Fall 2018\
 Language: Java\
 [Syllabus](https://mason.gmu.edu/~jkrishn2/cs112g01.html)\
-Fall 2016, 2017
+Fall 2016, 2017\
+[Slides](https://drive.google.com/drive/folders/1lH3CreeoFl_RSQor8jtMtVKLpeyY1CMx?usp=sharing)
 
 <img src='/images/gmu_icon.png' width="110" height="160">
 <img src='/images/BLANK_ICON.png' width="40" height="40"> 
