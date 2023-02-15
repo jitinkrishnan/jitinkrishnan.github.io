@@ -3,7 +3,7 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
-*(I don't teach anymore. Please feel free to grab the slides and reach out with any questions)*
+*(I don't teach anymore, but please feel free to grab the slides and reach out with any questions)*
 
 
 **CS310 Data Structures**\
