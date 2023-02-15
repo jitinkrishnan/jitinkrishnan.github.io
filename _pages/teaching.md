@@ -8,7 +8,7 @@ author_profile: true
 
 **CS310 Data Structures**\
 Language: Java\
-[Syllabus](https://cs.gmu.edu/media/syllabi/Spring2018/CS_310All_Instructors.html), [Slides](https://drive.google.com/drive/folders/1umpJzAnVydDcwJlG2zywNcD8ONL1dWep) (Might help with Coding Competitions or Coding Interview Preperations)\
+[Syllabus](https://cs.gmu.edu/media/syllabi/Spring2018/CS_310All_Instructors.html), [Slides](https://drive.google.com/drive/folders/1umpJzAnVydDcwJlG2zywNcD8ONL1dWep) (Might help with Coding Competitions or Coding Interview Preparations)\
 Fall 2017, Spring 2018
 
 **CS211 Object Oriented Programming**\
