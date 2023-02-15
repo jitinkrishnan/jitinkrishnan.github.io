@@ -24,7 +24,7 @@ redirect_from:
 * Summer 2015 - 2018: AI Intern, NASA GSFC
 * 2016 - 2018: Computer Science Faculty, George Mason University & Governor's School
 
-**Awards**
+**Award**
 
 [John Mather Nobel Scholar](https://spacegrant.org/programs/john-mather/john-mather-2017/). NASA GSFC - Greenbelt, Maryland (2017)\
 <img src='/images/jmns.jpg' width="330" height="250">\
