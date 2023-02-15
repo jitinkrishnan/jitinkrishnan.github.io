@@ -3,7 +3,7 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
-*(I don't teach anymore, but please feel free to grab the slides and reach out with any questions)*
+*(I don't teach anymore, but please feel free to grab the slides or reach out with any questions)*
 
 
 **CS310 Data Structures**\
@@ -25,7 +25,7 @@ Language: Java\
 Fall 2016, 2017\
 [Slides](https://drive.google.com/drive/folders/1lH3CreeoFl_RSQor8jtMtVKLpeyY1CMx?usp=sharing) (For both Python and Java)
 
-<img src='/images/gmu_icon.png' width="110" height="160">
+<img src='/images/gmu_icon.png' width="120" height="180">
 <img src='/images/BLANK_ICON.png' width="40" height="40"> 
 <img src='/images/govschool.jpeg' width="100" height="130">
 
