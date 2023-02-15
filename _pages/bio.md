@@ -9,6 +9,7 @@ redirect_from:
   - /resume/
   - /resume.html
 ---
+[Download CV]('http://jitinkrishnan.github.io/files/paper1.pdf')
 
 **Education**
 
