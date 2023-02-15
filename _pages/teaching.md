@@ -23,7 +23,7 @@ Fall 2018\
 Language: Java\
 [Syllabus](https://mason.gmu.edu/~jkrishn2/cs112g01.html)\
 Fall 2016, 2017\
-[Slides](https://drive.google.com/drive/folders/1lH3CreeoFl_RSQor8jtMtVKLpeyY1CMx?usp=sharing)
+[Slides](https://drive.google.com/drive/folders/1lH3CreeoFl_RSQor8jtMtVKLpeyY1CMx?usp=sharing) (For both Python and Java)
 
 <img src='/images/gmu_icon.png' width="110" height="160">
 <img src='/images/BLANK_ICON.png' width="40" height="40"> 
