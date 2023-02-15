@@ -9,7 +9,7 @@ redirect_from:
   - /resume/
   - /resume.html
 ---
-[<img src='/images/download2.png' width="30" height="40"> Download CV](http://jitinkrishnan.github.io/files/Krishnan_CV.pdf)
+[<img src='/images/download2.png' width="20" height="30"> Download CV](http://jitinkrishnan.github.io/files/Krishnan_CV.pdf)
 
 **Education**
 
