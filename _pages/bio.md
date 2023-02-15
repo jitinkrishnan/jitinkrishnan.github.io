@@ -11,10 +11,12 @@ redirect_from:
 ---
 [<img src='/images/download2.png' width="22" height="35"> Download CV](http://jitinkrishnan.github.io/files/Krishnan_CV.pdf)
 
+
 **Education**
 
 * Ph.D in Computer Science, George Mason University, 2021
 * B.S in Computer Science with Minor in Economics, University of Virginia, 2013
+
 
 **Work Experience**
 
@@ -23,6 +25,7 @@ redirect_from:
 * Summer 2018, 2019: Machine Learning Intern, Facebook (AI Integrity)
 * Summer 2015 - 2018: AI Intern, NASA GSFC
 * 2016 - 2018: Computer Science Faculty, George Mason University & Governor's School
+
 
 **Award**
 
