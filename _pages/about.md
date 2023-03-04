@@ -24,9 +24,6 @@ I am a Research Scientist at Meta AI, working in a team that builds cutting-edge
 
 Before joining Meta, I received my PhD in Computer Science from George Mason University in 2021. I was advised by Dr. [Huzefa Rangwala](https://cs.gmu.edu/~hrangwal/) and Dr. [Hemant Purohit](https://mason.gmu.edu/~hpurohit/). My PhD thesis was on cross-lingual and cross-domain NLP. During my PhD, I did research internships at Meta, NASA Goddard, and Amazon Alexa. At NASA, I was advised by [Patrick Coronado](https://science.gsfc.nasa.gov/sed/bio/patrick.l.coronado) in designing a [virtual assistant](https://github.com/jitinkrishnan/NASA-SE) for Systems Engineers. At Amazon, I worked on Teacher-Student model to improve Alexa's NLU. I was also a faculty at GMU and at the Governor's School, teaching undergraduate courses such as Data Structures, Object Oriented Programming, and Intro to Programming. Prior to this, I obtained my Bachelor's in Computer Science (and a minor in Economics) from University of Virginia in 2013. 
 
-In my free time, I enjoy traveling, playing badminton/soccer/chess, and some occasional [photography](https://www.instagram.com/jikri_photography/). 
-
-
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/jitinkrishnan).
+In my free time, I enjoy traveling, playing badminton/soccer/chess, and some occasional [photography](https://www.instagram.com/jikri_photography/). Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/jitinkrishnan).
 
 <img src='/images/fb_jitin.jpg' width="420" height="530">
