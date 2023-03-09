@@ -20,11 +20,21 @@ redirect_from:
 
 **Work Experience**
 
-* 2021 - Present: Research Scientist, Meta AI
-* Summer 2021: Applied Scientist Intern, Amazon Alexa NLU
-* Summer 2018, 2019: Machine Learning Intern, Facebook (AI Integrity)
-* Summer 2015 - 2018: AI Intern, NASA GSFC
-* 2016 - 2018: Computer Science Faculty, George Mason University & Governor's School
+* 2021 - Present: Research Scientist at Meta AI
+* Summer 2021: Applied Scientist Intern at Amazon Alexa NLU
+* Summer 2018, 2019: Machine Learning Intern at Facebook (AI Integrity)
+* Summer 2015 - 2018: AI Intern at NASA GSFC
+* 2016 - 2018: Computer Science Faculty at George Mason University & Governor's School
+* 2013 - 2014: Software Architect at Laboratory for Aerosol and Cloud Optics, University of Maryland Baltimore County, NASA GSFC Climate and Radiation
+
+
+**Other Experience**
+
+* 2016 - 2017: Space Public Outreach Team (SPOT) Ambassador at NASA GSFC
+* 2016 - 2017: Election Officer at Prince William/ Loudoun County, VA
+* 2014 - 2016: Chess Coach at Silver Knights Enrichment (Fairfax, VA)
+* 2014 - 2016: Graduate Resident Advisor at George Mason University
+
 
 
 **Award**
