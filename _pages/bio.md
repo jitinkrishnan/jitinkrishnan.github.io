@@ -25,7 +25,7 @@ redirect_from:
 * Summer 2018, 2019: Machine Learning Intern at Facebook (AI Integrity)
 * Summer 2015 - 2018: AI Intern at NASA GSFC
 * 2016 - 2018: Computer Science Faculty at George Mason University & Governor's School
-* 2013 - 2014: Software Architect at Laboratory for Aerosol and Cloud Optics, University of Maryland Baltimore County, NASA GSFC Climate and Radiation
+* 2013 - 2014: Software Architect at Laboratory for Aerosol and Cloud Optics, University of Maryland Baltimore County, NASA GSFC Climate and Radiation Laboratory
 
 
 **Other Experience**
