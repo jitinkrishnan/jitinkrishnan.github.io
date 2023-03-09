@@ -31,7 +31,7 @@ redirect_from:
 **Other Experience**
 
 * 2016 - 2017: Space Public Outreach Team (SPOT) Ambassador at NASA GSFC
-* 2016 - 2017: Election Officer at Prince William/ Loudoun County, VA
+* 2016 - 2017: Election Officer at Prince William/ Loudoun County (Virginia)
 * 2014 - 2016: Chess Coach at Silver Knights Enrichment (Fairfax, VA)
 * 2014 - 2016: Graduate Resident Advisor at George Mason University
 
