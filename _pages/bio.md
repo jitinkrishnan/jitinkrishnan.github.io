@@ -22,7 +22,7 @@ redirect_from:
 
 * 2021 - Present: Research Scientist at Meta AI
 * Summer 2021: Applied Scientist Intern at Amazon Alexa NLU
-* Summer 2018, 2019: Machine Learning Intern at Facebook (AI Integrity)
+* Summer 2018, 2019: Machine Learning Intern at Facebook
 * Summer 2015 - 2018: AI Intern at NASA GSFC
 * 2016 - 2018: Computer Science Faculty at George Mason University & Governor's School
 
