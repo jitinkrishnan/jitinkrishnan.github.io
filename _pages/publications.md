@@ -8,7 +8,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=DQJbUaUAAAAJ&hl=e
 
 [Representation Deficiency in Masked Language Modeling](https://arxiv.org/pdf/2302.02060)\
 Yu Meng, **Jitin Krishnan**, Sinong Wang, Qifan Wang, Yuning Mao, Han Fang, Marjan Ghazvininejad, Jiawei Han and Luke Zettlemoyer\
-2023 
+ICLR 2024 
 
 [SMARTAVE: Structured Multimodal Transformer for Product Attribute Value Extraction](https://aclanthology.org/2022.findings-emnlp.20.pdf)\
 Qifan Wang, Li Yang, Jingang Wang, **Jitin Krishnan**, Bo Dai, Sinong Wang, Zenglin Xu, Madian Khabsa and Hao Ma\
