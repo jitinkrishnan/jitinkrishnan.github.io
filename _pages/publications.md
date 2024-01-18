@@ -12,7 +12,7 @@ In ICLR 2024, 12th International Conference on Learning Representations.
 
 [SMARTAVE: Structured Multimodal Transformer for Product Attribute Value Extraction](https://aclanthology.org/2022.findings-emnlp.20.pdf)\
 Qifan Wang, Li Yang, Jingang Wang, **Jitin Krishnan**, Bo Dai, Sinong Wang, Zenglin Xu, Madian Khabsa and Hao Ma\
-Proceedings of EMNLP 2022 
+In Proceedings of EMNLP 2022 
 
 [Cross-Lingual Text Classification of Transliterated Hindi and Malayalam](https://arxiv.org/abs/2108.13620)\
 **Jitin Krishnan**, Antonios Anastasopoulos, Hemant Purohit and Huzefa Rangwala\
