@@ -9,7 +9,6 @@ redirect_from:
   - /resume/
   - /resume.html
 ---
-[<img src='/images/download2.png' width="22" height="35"> Download CV](http://jitinkrishnan.github.io/files/Krishnan_CV.pdf)
 
 
 **Education**
@@ -20,16 +19,16 @@ redirect_from:
 
 **Work Experience**
 
-* 2021 - Present: Research Scientist at Meta AI
+* 2021 - Present: Research Scientist at Meta, Generative AI
 * Summer 2021: Applied Scientist Intern at Amazon Alexa NLU
-* Summer 2018, 2019: Machine Learning Intern at Facebook
-* Summer 2015 - 2018: AI Intern at NASA GSFC
+* Summer 2018, 2019: PhD Machine Learning Intern at Facebook
+* Summer 2015 - 2018: PhD AI Intern at NASA GSFC
 * 2016 - 2018: Computer Science Faculty at George Mason University & Governor's School
 
 
 **Other Experience**
 
-* Computer Science Conference Roles (PC Member/Reviewer): ECML-PKDD, AAAI, SIAM SDM, WEBSCI, ICWSM, ICDM, ASONAM, WEBSCI, IEEE IS, CIKM
+* Computer Science Conference Roles (PC Member/Reviewer): ECML-PKDD, AAAI, SIAM SDM, WEBSCI, ICDM, IEEE IS, CIKM
 * 2016 - 2017: Space Public Outreach Team Ambassador at NASA GSFC
 * 2016 - 2017: Election Officer at Prince William/ Loudoun County (Virginia)
 * 2014 - 2016: Chess Coach at Silver Knights Enrichment (Fairfax, VA)
