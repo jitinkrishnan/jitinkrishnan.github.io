@@ -28,7 +28,7 @@ redirect_from:
 
 **Other Experience**
 
-* Computer Science Conference Roles (PC Member/Reviewer): ECML-PKDD, AAAI, SIAM SDM, WEBSCI, ICDM, IEEE IS, CIKM
+* Computer Science Conference Roles (PC Member/Reviewer): ECML-PKDD, AAAI, SDM, WEBSCI, ICDM, IEEE IS, CIKM
 * 2016 - 2017: Space Public Outreach Team Ambassador at NASA GSFC
 * 2016 - 2017: Election Officer at Prince William/ Loudoun County (Virginia)
 * 2014 - 2016: Chess Coach at Silver Knights Enrichment (Fairfax, VA)
