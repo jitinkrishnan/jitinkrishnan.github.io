@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 <img src='/images/snap2.png' width="120" height="110">
-<img src='/images/meta_gif.gif' width="140" height="130">
+<img src='/images/meta_gif.gif' width="120" height="110">
 <img src='/images/BLANK_ICON.png' width="10" height="40">
-<img src='/images/nasa_logo.png' width="95" height="125">
+<img src='/images/nasa_logo.png' width="75" height="105">
 <img src='/images/BLANK_ICON.png' width="17" height="40">
 <img src='/images/alexa_icon2.png' width="135" height="165">
 <img src='/images/BLANK_ICON.png' width="34" height="40">
