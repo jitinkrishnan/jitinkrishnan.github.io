@@ -10,7 +10,7 @@ redirect_from:
 <img src='/images/snap2.png' width="90" height="70">
 <img src='/images/meta_gif.gif' width="120" height="110">
 <img src='/images/BLANK_ICON.png' width="10" height="40">
-<img src='/images/nasa_logo.png' width="75" height="105">
+<img src='/images/nasa_logo.png' width="60" height="90">
 <img src='/images/BLANK_ICON.png' width="17" height="40">
 <img src='/images/alexa_icon2.png' width="115" height="145">
 <img src='/images/BLANK_ICON.png' width="34" height="40">
