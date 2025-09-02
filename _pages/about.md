@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<img src='/images/snap.jpeg' width="140" height="130">
 <img src='/images/meta_gif.gif' width="140" height="130">
 <img src='/images/BLANK_ICON.png' width="10" height="40">
 <img src='/images/nasa_logo.png' width="95" height="125">
@@ -20,9 +20,9 @@ redirect_from:
 
 **About Me**
 
-I am a Research Scientist at Meta (formerly Facebook) AI, working in a team that builds cutting-edge Generative AI solutions for conversational commerce by fine-tuning [Llama](https://www.llama.com). My past projects include building ML/NLP models for modern Recommender Systems and AI integrity. My research interests include Multilingual and Multimodal Understanding, Large Language Models, Graph Neural Nets and Commonsense AI.
+I am a Senior Machine Learning Engineer at Snapchat working on Ads Ranking for Monetization. My interests lie in the intersection of Recommender Systems and LLMs. 
 
-Before joining Meta, I received my PhD in Computer Science from George Mason University in 2021. I was advised by Dr. [Huzefa Rangwala](https://cs.gmu.edu/~hrangwal/) and Dr. [Hemant Purohit](https://mason.gmu.edu/~hpurohit/). My PhD thesis was on cross-lingual and cross-domain NLP. During my PhD, I did research internships at Meta, NASA Goddard, and Amazon Alexa. At NASA, I was advised by Mission Systems Engineer Mr. [Patrick Coronado](https://www.linkedin.com/in/patrick-coronado-0189931) in designing a virtual assistant for Systems Engineers. At Amazon, I built a Teacher-Student knowledge distillation model to improve Alexa's NLU. I was a faculty at GMU and at the Governor's School, teaching undergraduate courses such as Data Structures, Object Oriented Programming, and Intro to Programming from 2016 to 2018. Prior to this, I obtained my Bachelor's in Computer Science (and a minor in Economics) from University of Virginia. 
+Before joining Snap, I was at [Patronus AI](https://www.patronus.ai) for short while, working on [Agentic evaluation](https://arxiv.org/abs/2505.08638). Before that, I was a Research Scientist at Meta AI, working in a team that builds Generative AI solutions for conversational commerce by fine-tuning [Llama](https://www.llama.com). My past projects include building ML/NLP models for modern Recommender Systems and AI integrity. My research interests include Multilingual and Multimodal Understanding, Large Language Models, Graph Neural Nets and Commonsense AI. Before joining Meta, I received my PhD in Computer Science from George Mason University in 2021. I was advised by Dr. [Huzefa Rangwala](https://cs.gmu.edu/~hrangwal/) and Dr. [Hemant Purohit](https://mason.gmu.edu/~hpurohit/). My PhD thesis was on cross-lingual and cross-domain NLP. During my PhD, I did research internships at Meta, NASA Goddard, and Amazon Alexa. At NASA, I was advised by Mission Systems Engineer Mr. [Patrick Coronado](https://www.linkedin.com/in/patrick-coronado-0189931) in designing a virtual assistant for Systems Engineers. At Amazon, I built a Teacher-Student knowledge distillation model to improve Alexa's NLU. I was a faculty at GMU and at the Governor's School, teaching undergraduate courses such as Data Structures, Object Oriented Programming, and Intro to Programming from 2016 to 2018. Prior to this, I obtained my Bachelor's in Computer Science (and a minor in Economics) from University of Virginia. 
 
 In my free time, I enjoy traveling, playing badminton/soccer/chess, and some occasional [photography](https://www.instagram.com/jikri_photography/). Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/jitinkrishnan).
 
