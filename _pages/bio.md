@@ -19,7 +19,8 @@ redirect_from:
 
 **Work Experience**
 
-* 2021 - Present: Research Scientist at Meta, Generative AI
+* 2025 - Present: Senior Machine Learning Engineer at Snap
+* 2021 - 2025: Research Scientist at Meta, Generative AI
 * Summer 2021: Applied Scientist Intern at Amazon Alexa NLU
 * Summer 2018, 2019: PhD Machine Learning Intern at Facebook
 * Summer 2015 - 2018: PhD AI Intern at NASA GSFC
