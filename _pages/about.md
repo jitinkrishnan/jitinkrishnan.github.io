@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/snap.jpeg' width="140" height="130">
+<img src='/images/snap2.png' width="140" height="130">
 <img src='/images/meta_gif.gif' width="140" height="130">
 <img src='/images/BLANK_ICON.png' width="10" height="40">
 <img src='/images/nasa_logo.png' width="95" height="125">
