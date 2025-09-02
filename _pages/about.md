@@ -12,11 +12,11 @@ redirect_from:
 <img src='/images/BLANK_ICON.png' width="10" height="40">
 <img src='/images/nasa_logo.png' width="75" height="105">
 <img src='/images/BLANK_ICON.png' width="17" height="40">
-<img src='/images/alexa_icon2.png' width="135" height="165">
+<img src='/images/alexa_icon2.png' width="115" height="145">
 <img src='/images/BLANK_ICON.png' width="34" height="40">
-<img src='/images/gmu_icon.png' width="90" height="135">
+<img src='/images/gmu_icon.png' width="70" height="115">
 <img src='/images/BLANK_ICON.png' width="26" height="40"> 
-<img src='/images/uva_logo.png' width="105" height="135">
+<img src='/images/uva_logo.png' width="85" height="115">
 
 **About Me**
 
